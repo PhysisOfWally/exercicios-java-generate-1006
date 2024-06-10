@@ -20,7 +20,7 @@ public class Exercicio3 {
 		System.out.println("Informe 10 números: ");
 
 		// repetindo até o array ter 10 valores
-		while (numeros.size() < 3) {
+		while (numeros.size() < 10) {
 			// ENTRADA DE DADOS
 			System.out.print("Valor: ");
 			num = sc.nextInt();
